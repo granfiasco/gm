@@ -42,3 +42,10 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 #EXTINF:0,BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,Talk Sport
+http://radio.talksport.com/stream?awparams=platform:ts-web&amsparams=playerid:ts-web
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,Talk Sport 2
+http://radio.talksport.com/stream2
