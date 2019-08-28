@@ -1,3 +1,40 @@
 #EXTM3U $ExtFilter="RADIO"
-#EXTINF:0,Radio Sheffield
+#EXTINF:0,BBC Radio Sheffield
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsheff_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,Psychedelicized
+http://s1.castserver.net:8006
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 4 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 4 Long Wave
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 5 Live Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC Radio 6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+
+#EXTM3U $ExtFilter="RADIO"
+#EXTINF:0,BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+
